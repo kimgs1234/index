@@ -1,0 +1,33 @@
+@charset "utf-8" ;
+
+header {
+  background-color: lightgray;
+}
+
+main .group1 {
+  background-color: lightblue;
+}
+main .group2 {
+  background-color:lightcoral;
+}
+main .group3 {
+  background-color: lightpink;
+}
+main .group4 {
+  background-color: lightsalmon;
+}
+main .group5 {
+  background-color: lightseagreen;
+}
+main .group6 {
+  background-color: lightsteelblue;
+}
+main .group7 {
+  background-color: lightcyan;
+}
+main .group8 {
+  background-color: aquamarine;
+}
+footer {
+  background-color: beige;
+}
